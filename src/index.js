@@ -1,7 +1,7 @@
 import Grid from "./classes/Grid.js";
 import Obstacle from "./classes/Obstacle.js";
 import Particle from "./classes/Particle.js";
-import Player from "./classes/player.js";
+import Player from "./classes/Player.js";
 import SoundEffects from "./classes/SoundEffects.js";
 import { GameState } from "./utils/constants.js";
 
